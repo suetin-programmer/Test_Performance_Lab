@@ -54,7 +54,7 @@ def print_res(count_step:int)->None:
         print("20 ходов недостаточно для приведения всех элементов массива к одному числу")
 
 
-def main():
+def main()-> None:
     """
     Основная функция программы
     :return:

@@ -64,7 +64,7 @@ def fill_test(tests, values):
         if test_id in values:
             parent["value"] = values[test_id]
 
-def main():
+def main()-> None:
     """
     Основная функция программы
     :return:
